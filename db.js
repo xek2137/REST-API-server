@@ -3,4 +3,4 @@ const db = [
   {id: 2, author: 'Amanda Doe', text: 'They really know how to make you happy.'},
 ];
 
-module.exports = db
+module.exports = db;
